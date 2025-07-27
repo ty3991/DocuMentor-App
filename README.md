@@ -1,2 +1,2 @@
 # DocuMentor-App
-DocuMentor is a gamified Microsoft Word mentor that takes you from basic formatting to advanced macros and Developer Tab secrets. Complete quests, earn titles (Squire → King), and face Boss Challenges to claim the Throne of Tabs. Features: GPT chat, advanced tutorials, macros guidance, and epic rank progression. 🍌
+DocuMentor is a mobile-first, AI-powered platform designed to help users master Microsoft Word through gamified learning, structured lessons, and real-time document coaching. The app bridges the gap between boring tutorials and practical, career-enhancing skills, appealing to students, professionals, and businesses worldwide.
